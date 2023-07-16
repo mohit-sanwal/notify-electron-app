@@ -5,7 +5,7 @@ module.exports = {
       config: {
         repository: {
           owner: 'mohit-sanwal',
-          name: 'basic-Electron-App'
+          name: 'notify-electron-app'
         },
         authToken: process.env.GITHUB_TOKEN,
         prerelease: false,
